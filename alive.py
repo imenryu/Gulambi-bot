@@ -33,7 +33,7 @@ class AliveHandler:
             f"🖥 **System:** `{os_name} {os_version}`\n"
             f"💾 **CPU Usage:** `{cpu_usage}%`\n"
             f"🧠 **RAM Usage:** `{ram_usage}%`\n"
-            "➜ Made by - @Exryuh"
+            "➜ **Creator:** ``@Exryuh`` # credit hataya to gand mar lunga
         )
 
         await event.delete()  # Delete "Checking..." message
